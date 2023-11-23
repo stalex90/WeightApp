@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833445462360",
+    "project_id": "weightapp-69167",
+    "storage_bucket": "weightapp-69167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833445462360:android:b0f500640e3d448799652d",
+        "android_client_info": {
+          "package_name": "com.stalex.weightapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6MOx30RiYC9g_OASq75V8i3DsfAAqAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

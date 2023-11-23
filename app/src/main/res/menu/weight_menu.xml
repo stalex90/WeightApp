@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:title="Добавить измерение"
+        android:icon="@drawable/baseline_add_24"
+        app:showAsAction="always"
+        android:orderInCategory="20">
+    </item>
+
+    <item
+        android:id="@+id/action_exit"
+        android:title="Выйти"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="never"
+        android:orderInCategory="20">
+    </item>
+
+</menu>
